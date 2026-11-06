@@ -26,3 +26,4 @@ if photos:
         print()
 else:
         print("No photos for this date.")
+    
